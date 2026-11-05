@@ -1,0 +1,83 @@
+fid,path,true_label,predicted_label,confidence
+fid_1114461,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Preservada\fid_1114461.png,Preservada,Moderada,0.5750949382781982
+fid_13313,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Preservada\fid_13313.png,Preservada,Moderada,0.6837413311004639
+fid_145413,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Preservada\fid_145413.png,Preservada,Moderada,0.46265408396720886
+fid_1486454,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Preservada\fid_1486454.png,Preservada,Moderada,0.7586575150489807
+fid_162085,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Preservada\fid_162085.png,Preservada,Moderada,0.4650997519493103
+fid_167143,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Preservada\fid_167143.png,Preservada,Baixa,0.6673325896263123
+fid_201177,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Preservada\fid_201177.png,Preservada,Baixa,0.5864151120185852
+fid_203040,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Preservada\fid_203040.png,Preservada,Moderada,0.7148169279098511
+fid_2197022,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Preservada\fid_2197022.png,Preservada,Moderada,0.47894999384880066
+fid_2215575,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Preservada\fid_2215575.png,Preservada,Não Preservada,0.9111466407775879
+fid_2336344,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Preservada\fid_2336344.png,Preservada,Baixa,0.5610278844833374
+fid_795005,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Preservada\fid_795005.png,Preservada,Moderada,0.679595410823822
+fid_80520,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Preservada\fid_80520.png,Preservada,Moderada,0.6224796772003174
+fid_949839,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Preservada\fid_949839.png,Preservada,Moderada,0.7134673595428467
+fid_1098244,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_1098244.png,Moderada,Preservada,0.7107455730438232
+fid_124785,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_124785.png,Moderada,Não Preservada,0.5754711031913757
+fid_1317049,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_1317049.png,Moderada,Baixa,0.769893229007721
+fid_1471221,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_1471221.png,Moderada,Baixa,0.5577813982963562
+fid_1480456,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_1480456.png,Moderada,Preservada,0.8830915689468384
+fid_1636425,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_1636425.png,Moderada,Baixa,0.6259951591491699
+fid_1787224,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_1787224.png,Moderada,Preservada,0.7083955407142639
+fid_1907305,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_1907305.png,Moderada,Preservada,0.8759118914604187
+fid_1952599,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_1952599.png,Moderada,Baixa,0.6338937878608704
+fid_2017211,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_2017211.png,Moderada,Baixa,0.5584537386894226
+fid_213974,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_213974.png,Moderada,Baixa,0.6183837056159973
+fid_2160978,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_2160978.png,Moderada,Preservada,0.47444483637809753
+fid_22616,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_22616.png,Moderada,Baixa,0.533645749092102
+fid_2278736,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_2278736.png,Moderada,Baixa,0.6748563051223755
+fid_2377055,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_2377055.png,Moderada,Preservada,0.7537901997566223
+fid_295619,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_295619.png,Moderada,Preservada,0.729978621006012
+fid_311203,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_311203.png,Moderada,Preservada,0.7284368276596069
+fid_452971,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_452971.png,Moderada,Preservada,0.873881995677948
+fid_463051,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_463051.png,Moderada,Preservada,0.752979040145874
+fid_508336,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_508336.png,Moderada,Não Preservada,0.419729083776474
+fid_529378,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_529378.png,Moderada,Preservada,0.8542259931564331
+fid_674317,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_674317.png,Moderada,Preservada,0.5470806360244751
+fid_695952,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_695952.png,Moderada,Não Preservada,0.39202409982681274
+fid_866847,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_866847.png,Moderada,Preservada,0.6451674699783325
+fid_878809,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_878809.png,Moderada,Preservada,0.5090985894203186
+fid_884389,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_884389.png,Moderada,Preservada,0.7999924421310425
+fid_884586,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_884586.png,Moderada,Preservada,0.8263859152793884
+fid_934111,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_934111.png,Moderada,Preservada,0.8898189663887024
+fid_934115,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_934115.png,Moderada,Baixa,0.5686260461807251
+fid_938710,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_938710.png,Moderada,Preservada,0.6074732542037964
+fid_958563,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Moderada\fid_958563.png,Moderada,Baixa,0.4703468680381775
+fid_1244272,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_1244272.png,Baixa,Moderada,0.5751970410346985
+fid_1430805,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_1430805.png,Baixa,Não Preservada,0.5751839876174927
+fid_1604384,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_1604384.png,Baixa,Não Preservada,0.7655183672904968
+fid_1636131,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_1636131.png,Baixa,Não Preservada,0.578709065914154
+fid_1721714,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_1721714.png,Baixa,Não Preservada,0.4982444643974304
+fid_1834697,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_1834697.png,Baixa,Moderada,0.775820255279541
+fid_183608,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_183608.png,Baixa,Não Preservada,0.7962406873703003
+fid_1939488,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_1939488.png,Baixa,Não Preservada,0.5283180475234985
+fid_2030154,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_2030154.png,Baixa,Moderada,0.5540066957473755
+fid_207208,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_207208.png,Baixa,Não Preservada,0.49657148122787476
+fid_2094134,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_2094134.png,Baixa,Moderada,0.6386439800262451
+fid_2281696,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_2281696.png,Baixa,Moderada,0.6213798522949219
+fid_2340137,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_2340137.png,Baixa,Moderada,0.7683601379394531
+fid_2380499,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_2380499.png,Baixa,Não Preservada,0.6992242932319641
+fid_2409137,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_2409137.png,Baixa,Não Preservada,0.6835311055183411
+fid_244493,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_244493.png,Baixa,Não Preservada,0.4937601089477539
+fid_356207,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_356207.png,Baixa,Moderada,0.579541802406311
+fid_387499,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_387499.png,Baixa,Não Preservada,0.8573227524757385
+fid_387502,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_387502.png,Baixa,Não Preservada,0.9259288311004639
+fid_418466,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_418466.png,Baixa,Moderada,0.6420570015907288
+fid_437531,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_437531.png,Baixa,Não Preservada,0.5210852026939392
+fid_456195,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_456195.png,Baixa,Não Preservada,0.757875919342041
+fid_501484,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_501484.png,Baixa,Moderada,0.48832595348358154
+fid_57174,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_57174.png,Baixa,Moderada,0.6411051154136658
+fid_699952,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_699952.png,Baixa,Não Preservada,0.530181884765625
+fid_881314,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_881314.png,Baixa,Moderada,0.4143177568912506
+fid_925808,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_925808.png,Baixa,Não Preservada,0.7580784559249878
+fid_926976,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_926976.png,Baixa,Não Preservada,0.5938698649406433
+fid_943386,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_943386.png,Baixa,Moderada,0.6494109034538269
+fid_971844,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Baixa\fid_971844.png,Baixa,Moderada,0.5236936211585999
+fid_110463,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Não Preservada\fid_110463.png,Não Preservada,Baixa,0.7935284972190857
+fid_1266856,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Não Preservada\fid_1266856.png,Não Preservada,Baixa,0.7374020218849182
+fid_1417290,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Não Preservada\fid_1417290.png,Não Preservada,Baixa,0.5078018307685852
+fid_2150070,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Não Preservada\fid_2150070.png,Não Preservada,Baixa,0.6761999726295471
+fid_2334059,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Não Preservada\fid_2334059.png,Não Preservada,Moderada,0.529976487159729
+fid_508094,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Não Preservada\fid_508094.png,Não Preservada,Baixa,0.6293789148330688
+fid_982296,C:\Users\giuli\OneDrive\Área de Trabalho\INPE\artigos\artigo_sbsr\codigos_modelos\data\dataset\treino\Não Preservada\fid_982296.png,Não Preservada,Baixa,0.4629245102405548

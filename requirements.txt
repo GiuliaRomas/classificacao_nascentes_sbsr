@@ -1,0 +1,19 @@
+# PyTorch 
+torch
+torchvision
+
+# Processamento de dados, imagens e geodados
+numpy
+pandas
+Pillow
+scikit-learn
+geopandas
+
+# Treinamento, métricas e visualização
+tqdm
+matplotlib
+seaborn
+optuna
+
+# Execução dos notebooks
+jupyter

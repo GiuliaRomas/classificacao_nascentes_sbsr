@@ -1,0 +1,43 @@
+2026-10-26 02:50:06 | =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2026-10-26 02:50:06 | FOLD 3/5
+2026-10-26 02:50:06 | =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2026-10-26 02:50:32 | Epoch 1/50
+2026-10-26 02:51:10 | Train Loss: 1.1566 | Train F1-macro: 0.4626 | Val Loss: 0.7800 | Val F1-macro: 0.6009 | Val Accuracy: 0.6695 | Val Precision Macro: 0.6123 | Val Recall Macro: 0.5978
+2026-10-26 02:51:11 | Early stopping - patience: 5
+2026-10-26 02:51:11 | Epoch 2/50
+2026-10-26 02:51:50 | Train Loss: 0.8678 | Train F1-macro: 0.6103 | Val Loss: 0.7162 | Val F1-macro: 0.6396 | Val Accuracy: 0.7031 | Val Precision Macro: 0.6784 | Val Recall Macro: 0.6333
+2026-10-26 02:51:50 | Early stopping - patience: 5
+2026-10-26 02:51:50 | Epoch 3/50
+2026-10-26 02:52:29 | Train Loss: 0.7650 | Train F1-macro: 0.6670 | Val Loss: 0.6898 | Val F1-macro: 0.6490 | Val Accuracy: 0.6947 | Val Precision Macro: 0.6765 | Val Recall Macro: 0.6416
+2026-10-26 02:52:30 | Early stopping - patience: 5
+2026-10-26 02:52:30 | Epoch 4/50
+2026-10-26 02:53:09 | Train Loss: 0.7304 | Train F1-macro: 0.6646 | Val Loss: 0.6477 | Val F1-macro: 0.7007 | Val Accuracy: 0.7395 | Val Precision Macro: 0.7107 | Val Recall Macro: 0.6933
+2026-10-26 02:53:09 | Early stopping - patience: 5
+2026-10-26 02:53:09 | Epoch 5/50
+2026-10-26 02:53:48 | Train Loss: 0.6808 | Train F1-macro: 0.6963 | Val Loss: 0.6556 | Val F1-macro: 0.6986 | Val Accuracy: 0.7255 | Val Precision Macro: 0.7106 | Val Recall Macro: 0.6952
+2026-10-26 02:53:48 | Early stopping - patience: 4
+2026-10-26 02:53:48 | Epoch 6/50
+2026-10-26 02:54:27 | Train Loss: 0.6655 | Train F1-macro: 0.7108 | Val Loss: 0.6455 | Val F1-macro: 0.6672 | Val Accuracy: 0.7199 | Val Precision Macro: 0.6978 | Val Recall Macro: 0.6558
+2026-10-26 02:54:27 | Early stopping - patience: 5
+2026-10-26 02:54:27 | Epoch 7/50
+2026-10-26 02:55:07 | Train Loss: 0.6164 | Train F1-macro: 0.7239 | Val Loss: 0.6220 | Val F1-macro: 0.6885 | Val Accuracy: 0.7311 | Val Precision Macro: 0.6965 | Val Recall Macro: 0.6910
+2026-10-26 02:55:08 | Early stopping - patience: 5
+2026-10-26 02:55:08 | Epoch 8/50
+2026-10-26 02:55:45 | Train Loss: 0.5871 | Train F1-macro: 0.7447 | Val Loss: 0.6139 | Val F1-macro: 0.7250 | Val Accuracy: 0.7619 | Val Precision Macro: 0.7321 | Val Recall Macro: 0.7208
+2026-10-26 02:55:46 | Early stopping - patience: 5
+2026-10-26 02:55:46 | Epoch 9/50
+2026-10-26 02:56:21 | Train Loss: 0.5770 | Train F1-macro: 0.7463 | Val Loss: 0.6373 | Val F1-macro: 0.6855 | Val Accuracy: 0.7255 | Val Precision Macro: 0.7115 | Val Recall Macro: 0.6737
+2026-10-26 02:56:21 | Early stopping - patience: 4
+2026-10-26 02:56:21 | Epoch 10/50
+2026-10-26 02:57:10 | Train Loss: 0.5471 | Train F1-macro: 0.7609 | Val Loss: 0.6225 | Val F1-macro: 0.6815 | Val Accuracy: 0.7311 | Val Precision Macro: 0.6965 | Val Recall Macro: 0.6743
+2026-10-26 02:57:10 | Early stopping - patience: 3
+2026-10-26 02:57:10 | Epoch 11/50
+2026-10-26 02:57:54 | Train Loss: 0.5293 | Train F1-macro: 0.7763 | Val Loss: 0.6275 | Val F1-macro: 0.6784 | Val Accuracy: 0.7311 | Val Precision Macro: 0.6902 | Val Recall Macro: 0.6858
+2026-10-26 02:57:54 | Early stopping - patience: 2
+2026-10-26 02:57:54 | Epoch 12/50
+2026-10-26 02:58:32 | Train Loss: 0.5311 | Train F1-macro: 0.7753 | Val Loss: 0.6170 | Val F1-macro: 0.6756 | Val Accuracy: 0.7255 | Val Precision Macro: 0.6813 | Val Recall Macro: 0.6719
+2026-10-26 02:58:32 | Early stopping - patience: 1
+2026-10-26 02:58:32 | Epoch 13/50
+2026-10-26 02:59:10 | Train Loss: 0.5084 | Train F1-macro: 0.7922 | Val Loss: 0.6272 | Val F1-macro: 0.6811 | Val Accuracy: 0.7227 | Val Precision Macro: 0.6993 | Val Recall Macro: 0.6788
+2026-10-26 02:59:10 | Early stopping - patience: 0
+2026-10-26 02:59:10 | Early stopping.

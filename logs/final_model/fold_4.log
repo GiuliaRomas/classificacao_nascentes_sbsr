@@ -1,0 +1,46 @@
+2026-10-26 02:59:20 | =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2026-10-26 02:59:20 | FOLD 4/5
+2026-10-26 02:59:20 | =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2026-10-26 02:59:48 | Epoch 1/50
+2026-10-26 03:00:27 | Train Loss: 1.1115 | Train F1-macro: 0.4696 | Val Loss: 0.8273 | Val F1-macro: 0.5680 | Val Accuracy: 0.6107 | Val Precision Macro: 0.6216 | Val Recall Macro: 0.5919
+2026-10-26 03:00:27 | Early stopping - patience: 5
+2026-10-26 03:00:27 | Epoch 2/50
+2026-10-26 03:01:07 | Train Loss: 0.8413 | Train F1-macro: 0.6125 | Val Loss: 0.7520 | Val F1-macro: 0.6353 | Val Accuracy: 0.6643 | Val Precision Macro: 0.6519 | Val Recall Macro: 0.6271
+2026-10-26 03:01:08 | Early stopping - patience: 5
+2026-10-26 03:01:08 | Epoch 3/50
+2026-10-26 03:01:47 | Train Loss: 0.7475 | Train F1-macro: 0.6634 | Val Loss: 0.7258 | Val F1-macro: 0.6671 | Val Accuracy: 0.6821 | Val Precision Macro: 0.6702 | Val Recall Macro: 0.6703
+2026-10-26 03:01:47 | Early stopping - patience: 5
+2026-10-26 03:01:47 | Epoch 4/50
+2026-10-26 03:02:26 | Train Loss: 0.7069 | Train F1-macro: 0.6760 | Val Loss: 0.7145 | Val F1-macro: 0.6737 | Val Accuracy: 0.6964 | Val Precision Macro: 0.6711 | Val Recall Macro: 0.6850
+2026-10-26 03:02:27 | Early stopping - patience: 5
+2026-10-26 03:02:27 | Epoch 5/50
+2026-10-26 03:03:07 | Train Loss: 0.6640 | Train F1-macro: 0.6978 | Val Loss: 0.6990 | Val F1-macro: 0.6746 | Val Accuracy: 0.7000 | Val Precision Macro: 0.6756 | Val Recall Macro: 0.6895
+2026-10-26 03:03:07 | Early stopping - patience: 5
+2026-10-26 03:03:07 | Epoch 6/50
+2026-10-26 03:03:46 | Train Loss: 0.6407 | Train F1-macro: 0.7203 | Val Loss: 0.7075 | Val F1-macro: 0.6677 | Val Accuracy: 0.6893 | Val Precision Macro: 0.6688 | Val Recall Macro: 0.6839
+2026-10-26 03:03:46 | Early stopping - patience: 4
+2026-10-26 03:03:46 | Epoch 7/50
+2026-10-26 03:04:24 | Train Loss: 0.6014 | Train F1-macro: 0.7396 | Val Loss: 0.7005 | Val F1-macro: 0.6911 | Val Accuracy: 0.7071 | Val Precision Macro: 0.6870 | Val Recall Macro: 0.6985
+2026-10-26 03:04:24 | Early stopping - patience: 3
+2026-10-26 03:04:24 | Epoch 8/50
+2026-10-26 03:05:03 | Train Loss: 0.5767 | Train F1-macro: 0.7615 | Val Loss: 0.7008 | Val F1-macro: 0.7036 | Val Accuracy: 0.7107 | Val Precision Macro: 0.7017 | Val Recall Macro: 0.7079
+2026-10-26 03:05:03 | Early stopping - patience: 2
+2026-10-26 03:05:03 | Epoch 9/50
+2026-10-26 03:05:42 | Train Loss: 0.5833 | Train F1-macro: 0.7482 | Val Loss: 0.6791 | Val F1-macro: 0.6826 | Val Accuracy: 0.7071 | Val Precision Macro: 0.6804 | Val Recall Macro: 0.6949
+2026-10-26 03:05:43 | Early stopping - patience: 5
+2026-10-26 03:05:43 | Epoch 10/50
+2026-10-26 03:06:22 | Train Loss: 0.5494 | Train F1-macro: 0.7746 | Val Loss: 0.6997 | Val F1-macro: 0.6492 | Val Accuracy: 0.6786 | Val Precision Macro: 0.6588 | Val Recall Macro: 0.6712
+2026-10-26 03:06:22 | Early stopping - patience: 4
+2026-10-26 03:06:22 | Epoch 11/50
+2026-10-26 03:07:00 | Train Loss: 0.5332 | Train F1-macro: 0.7700 | Val Loss: 0.6973 | Val F1-macro: 0.7360 | Val Accuracy: 0.7429 | Val Precision Macro: 0.7428 | Val Recall Macro: 0.7344
+2026-10-26 03:07:00 | Early stopping - patience: 3
+2026-10-26 03:07:00 | Epoch 12/50
+2026-10-26 03:07:38 | Train Loss: 0.5052 | Train F1-macro: 0.7942 | Val Loss: 0.6970 | Val F1-macro: 0.7017 | Val Accuracy: 0.7214 | Val Precision Macro: 0.6973 | Val Recall Macro: 0.7113
+2026-10-26 03:07:38 | Early stopping - patience: 2
+2026-10-26 03:07:38 | Epoch 13/50
+2026-10-26 03:08:15 | Train Loss: 0.4838 | Train F1-macro: 0.7971 | Val Loss: 0.6826 | Val F1-macro: 0.7126 | Val Accuracy: 0.7250 | Val Precision Macro: 0.7116 | Val Recall Macro: 0.7158
+2026-10-26 03:08:15 | Early stopping - patience: 1
+2026-10-26 03:08:15 | Epoch 14/50
+2026-10-26 03:08:53 | Train Loss: 0.4738 | Train F1-macro: 0.7989 | Val Loss: 0.6948 | Val F1-macro: 0.7088 | Val Accuracy: 0.7250 | Val Precision Macro: 0.7072 | Val Recall Macro: 0.7145
+2026-10-26 03:08:53 | Early stopping - patience: 0
+2026-10-26 03:08:53 | Early stopping.
