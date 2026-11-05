@@ -1,4 +1,4 @@
-# Classificação de nascentes com deep learning
+# Classificação de nascentes
 
 Este repositório reúne os notebooks e módulos Python usados para classificar imagens de nascentes em quatro níveis de preservação.
 
@@ -51,9 +51,9 @@ data/dataset/
 
 Os nomes dos diretórios devem corresponder às classes configuradas. Para a validação espacial, `data/amostras/amostra_final.shp` deve conter os campos `fid`, `ugrhi_id` e `ugrhi_nome`, com um FID correspondente ao identificador de cada imagem.
 
-## Resultado registrado
+## Resultado
 
-O arquivo `results/final_model/test/metrics.csv` contém os seguintes resultados do modelo final no conjunto de teste:
+O resultado final obtido foi:
 
 | Métrica | Resultado |
 |---|---:|
@@ -62,4 +62,4 @@ O arquivo `results/final_model/test/metrics.csv` contém os seguintes resultados
 | Revocação macro | 0,740 |
 | F1-macro | 0,738 |
 
-O teste registrado contém 388 imagens.
+O teste contém 388 imagens.
